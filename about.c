@@ -9,4 +9,6 @@ void main(){
 	}else{
 		printf("You entered odd number!");
 	}
+	printf("Thank u!");
+}
 }
